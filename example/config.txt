@@ -1,0 +1,2 @@
+Prefix plugins/DimPlot/example/
+Plugin DimPlot inputfile IRLBA.rds outputfile DimPlot.pdf
